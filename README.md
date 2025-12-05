@@ -1,6 +1,6 @@
 # NXT-2000 Enterprise Desktop Application
 
-This document serves as the primary reference guide for the **NXT-2000 Enterprise spectrum analyzer** application made possible using **Gemini AI**, and the tool only works with the **Netally NXT-2000 Wi-Fi Spectrum Analyzer**. Current newest version is **Version: 1.0.7**
+This document serves as the primary reference guide for the **NXT-2000 Enterprise spectrum analyzer** application made possible using **Gemini AI**, the tool only works with the **Netally NXT-2000 Wi-Fi Spectrum Analyzer**. Current newest version is **Version: 1.0.7**
 
 <img width="1382" height="940" alt="image" src="https://github.com/user-attachments/assets/5e5468e9-6fa2-4dad-8213-b98695ebb099" />
 
