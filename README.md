@@ -30,7 +30,7 @@ The main canvas is divided into two primary views: the Spectrum View (top) and t
 
 ### A. Real-Time Traces
 
-These traces show amplitude (Y-axis, $\text{dBm}$) vs. frequency (X-axis).
+These traces show amplitude (Y-axis) vs. frequency (X-axis).
 
 | Trace | Color (Default) | Customization | Purpose | 
  | ----- | ----- | ----- | ----- | 
@@ -56,7 +56,7 @@ The application provides immediate visual feedback on key operational metrics:
 
 | Feature | Location | Benefit |
 | :--- | :--- | :--- |
-| **Utilization %** | Directly below Channel ID (Top of Spectrum) | Shows the percentage of time the channel energy exceeds a preset power threshold ($\text{Tx}/\text{Rx}$). Provides instant insight into network traffic congestion. |
+| **Utilization %** | Directly below Channel ID (Top of Spectrum) | Shows the percentage of time the channel energy exceeds a preset power threshold currently set to **-80 dBm**. Provides instant insight into network traffic congestion. |
 | **SATURATION** | Header (Red Pill) | Appears as a solid red warning for **5 seconds** when the device reports an input overload. Indicates that the signal input is too strong and measurements may be inaccurate. |
 
 <img width="1225" height="475" alt="image" src="https://github.com/user-attachments/assets/facccac2-5e0d-48d1-ac70-587103b9a1a3" />
