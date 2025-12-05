@@ -24,7 +24,7 @@ A dropdown menu allows selection of the following bands: 2.4 GHz, 5 GHz, and 6 G
 
 The main canvas is divided into two primary views: the Spectrum View (top) and the Waterfall/3D View (bottom).
 
-* Users can add live markers by double left-clicking on the screen.
+* You can add live markers by double left-clicking on the screen.
 * The application supports Peak Search to automatically locate the strongest signal within the displayed frequency range.
 * An amplitude distribution window is located on the side, showing the amount of signals seen, which are mostly thermal-noise.
 
