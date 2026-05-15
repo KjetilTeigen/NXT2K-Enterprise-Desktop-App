@@ -2,7 +2,9 @@
 
 This document serves as the primary reference guide for the **NXT-2000 Enterprise spectrum analyzer** application made possible using **Gemini AI**, the tool only works with the **Netally NXT-2000 Wi-Fi Spectrum Analyzer**. 
 
-Current newest version is **Version: 1.0.7**
+**NEW of 2026:** A completely different version made for MacOS in Swift, current version there is 1.0.2. A new Windows version will later be built without Electron, this is why they have completely different version numbers. MacOS does actually have something the Windows version does not have, and that is **zoom-mode** and **Save Spectrum Trace** a first public "BETA" is now available.
+
+Current Windows version: **Version: 1.0.7**
 
 <img width="1382" height="940" alt="image" src="https://github.com/user-attachments/assets/5e5468e9-6fa2-4dad-8213-b98695ebb099" />
 
